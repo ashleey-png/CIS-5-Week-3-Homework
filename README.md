@@ -4,7 +4,7 @@
 **Theme:** Pick a type, give it a first value, print the name
 
 
-## Demo video (required)
+## Demo video 
 
 Paste a link to a short video of you running this assignment (tool + code + run).
 Work without a working video link is incomplete.
