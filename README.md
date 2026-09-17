@@ -11,7 +11,8 @@ Work without a working video link is incomplete.
 
 In the video: run the working program. Then uncomment one illegal line, show the first error, comment it back, and rebuild.
 
-**Your demo:** (https://drive.google.com/file/d/1Ra5b1dxyu1gNXKPsfWA0qsYVwGXkkq7w/view?usp=sharing)
+**Your demo:** https://drive.google.com/file/d/1OlXpTsvPA6SAVsTtnpXKbUmAvSQc6OyV/view?usp=sharing
+https://drive.google.com/file/d/1Nzpjfd4z5-SdezLks9b-oP4-zD4tmfzQ/view?usp=sharing
 
 
 ## What to build
