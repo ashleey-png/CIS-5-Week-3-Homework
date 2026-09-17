@@ -51,8 +51,8 @@ std::cout <<"My name is " << name << " and I go to RCC. I am " << age << " years
   // CURRENT_YEAR = 2027;    // would not compile — ...
 
 
-//char initial = "A"; this will not compile with char because the initial "A" is a string, while char will only accept ONE character in SINGLE quotes.
-//int credits = "one hundred fifty"; this will not compile because the value is also a string, and int only accepts integers.
+//char second_initial = 'D'; //this will not compile with char because the initial "A" is a string, while char will only accept ONE character in SINGLE quotes.
+//int future_credits = 130; //this will not compile because the value is also a string, and int only accepts integers.
 
   return 0;
 } 
